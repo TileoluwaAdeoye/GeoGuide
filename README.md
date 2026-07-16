@@ -32,6 +32,10 @@ Basic geology concepts
 
 through conversational AI.
 
+
+<img width="1319" height="668" alt="Screenshot 2026-07-16 132504" src="https://github.com/user-attachments/assets/e6360faa-9679-464d-ac54-cf19c0759ea1" />
+
+
 🛡️ Responsible AI
 
 This application:
