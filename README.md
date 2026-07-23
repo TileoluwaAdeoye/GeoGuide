@@ -13,6 +13,7 @@ Publicly deployed on Hugging Face Spaces
 Educational safety guardrails
 Domain-specific prompt engineering
 Simple Gradio web interface
+
 🛠️ Tech Stack
 Python
 Hugging Face Transformers
@@ -20,6 +21,7 @@ Hugging Face Spaces
 Gradio
 Mistral-7B-Instruct
 Prompt Engineering
+
 🎯 Purpose
 
 GeoGuide AI helps users understand:
@@ -28,10 +30,20 @@ Rocks and minerals
 Plate tectonics
 Geological processes
 Earth history
-Basic geology concepts
+Basic geology concepts through conversational AI.
 
-through conversational AI.
-
+title: Intelligent Geology Chatbot
+emoji: 💬
+colorFrom: yellow
+colorTo: purple
+sdk: gradio
+sdk_version: 5.42.0
+app_file: app.py
+pinned: false
+hf_oauth: true
+hf_oauth_scopes:
+- inference-api
+short_description: The chatbot acts as a virtual geology tutor
 
 <img width="1319" height="668" alt="Screenshot 2026-07-16 132504" src="https://github.com/user-attachments/assets/e6360faa-9679-464d-ac54-cf19c0759ea1" />
 
