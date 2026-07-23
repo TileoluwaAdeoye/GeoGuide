@@ -3,9 +3,6 @@
 GeoGuide AI is an AI-powered educational chatbot designed to make geology concepts easier to understand for students, beginners, and enthusiasts. The application leverages Mistral-7B-Instruct to provide conversational explanations of geological topics while promoting safe and responsible AI usage.
 
 
-<img width="1366" height="656" alt="Screenshot 2026-07-16 133140" src="https://github.com/user-attachments/assets/53b6d9d6-df5e-482c-963a-c5b0cf01f4e8" />
-
-
 ✨ Features
 Interactive geology question-and-answer chatbot
 Powered by Mistral-7B-Instruct
@@ -32,7 +29,7 @@ Geological processes
 Earth history
 Basic geology concepts through conversational AI.
 
-title: Intelligent Geology Chatbot
+## Title: Intelligent Geology Chatbot
 emoji: 💬
 colorFrom: yellow
 colorTo: purple
@@ -44,8 +41,6 @@ hf_oauth: true
 hf_oauth_scopes:
 - inference-api
 short_description: The chatbot acts as a virtual geology tutor
-
-<img width="1319" height="668" alt="Screenshot 2026-07-16 132504" src="https://github.com/user-attachments/assets/e6360faa-9679-464d-ac54-cf19c0759ea1" />
 
 
 🛡️ Responsible AI
